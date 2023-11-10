@@ -2,7 +2,7 @@
 
   Landing page for myBike shop. Presents the advantages of muBike bikes, contains information about bikes redy fo purchase and galery. Contains a form for sending messages.
 
-# [DEMO](https://Sergey-Mironenko.github.io/layout_miami/)
+# [DEMO](https://Sergey-Mironenko.github.io/Layout-bike-shop/)
 
 # Technologies used
 
